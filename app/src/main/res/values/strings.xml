@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CAROT</string>
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="btn_link_to_register">Not a Member? Register Now!</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_login">A Member? Login Now!</string>
+    <string name="minimum_password">Password is too short, enter minimum 6 characters!</string>
+
+    //Info-Kue
+    <string name="judul_info1">Bika Ambon From Medan</string>
+    <string name="isi_info1">Bika Ambon is a flat yellow cake, whose surface looks like the pores of a human skin, and the bottom is hard, the rest of the heat is placed on the bottom of the pan. Bika Ambon is usually served in square pieces.
+        When eaten, legit flavors are mixed with a chewy sensation on the tongue. The fragrant aroma of pandanus.</string>
+
+    <string name="judul_info2">Bakpia From Yogyakarta</string>
+    <string name="isi_info2">Bakpia is originally from China, originally named Tou Luk Pia, which means green bean pia (cake) cake. In addition, bakpia began to be produced in the Patok village of Yogyakarta, since around 1948. At that time, it was still traded in retail, packed in labels without labels, the demand was still very limited. The process continued until it changed with paperboard packaging accompanied by a label.</string>
+
+
+    <string name="judul_info3">Cake Roll From Surabaya</string>
+    <string name="isi_info3">Surabaya Roll Cake is the latest and unique souvenir from Surabaya. This gift feels so special, because it is available in many variants, ranging from vanilla flavored cake variants, pandanus flavored cakes, and chocolate-flavored cakes. For Filling, there are jam meises, durian, cheese, pineapple, strawberry, vanilla buttercream, chocolate buttercream</string>
+
+
+    <string name="judul_info4">Lemang From Karo</string>
+    <string name="isi_info4">Lemang or in Karo is called rires, can be enjoyed with a variety of complementary sauces. In the durian season, the sauce will be mixed with durian. But the Karo people are usually eaten with sauces called tengguli, made from brown sugar.</string>
+
+
+    <string name="judul_info5">Pinyaram From Padang</string>
+    <string name="isi_info5">West Sumatra has a lot of traditional snacks that taste very tasty and one of the very typical snacks named Kue Pinyaram and generally these cakes are made while welcoming holidays and special celebrations. Pinyaram cake is made from a mixture of sugar area, white fallow flour or black rice flour and coconut milk.</string>
+
+
+    //ResepKue
+    <string name="judul_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep1">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep2">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep3">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep4">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep5">Password too short, enter minimum 6 characters!</string>
+
+    //AboutUs
+    <string name="about_us">
+        With a sense of pride and confidence our group is able to complete this simple application,
+        to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce ourselvesWith a sense of pride and confidence our group is able to complete
+        this simple application, to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce themselves</string>
+    <string name="title_activity_maps">Map</string>
+
+    //Maps
+        <string name="app">Carot</string>
+        <string name="maps">Map</string>
+        <string name="normal_map">normal_map</string>
+        <string name="hybrid_map">hybrid_map</string>
+        <string name="satellite_map">satellite_map</string>
+        <string name="terrain_map">terrain_map</string>
+
+
+</resources>
+

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Carot</string>
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">Daftar</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="auth_failed">Gagal Masuk, Silakan cek email dan password</string>
+    <string name="btn_link_to_register">Belum menjadi Anggota? Registrasi sekarang!</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_login">Sudah menjadi anggota? Login yuk!</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+
+
+    //Info-Kue
+    <string name="judul_info1">Bika Ambon Medan</string>
+    <string name="isi_info1">Bika Ambon adalah kue pipih berwarna kuning,
+        yang permukaannya terlihat seperti pori-pori kulit manusia,
+        dan bagian bawahnya keras, sisa dari tempaan panas di dasar loyang.
+        Bika Ambon ini biasa tersaji dalam potongan persegi. Saat dimakan,
+        citarasa legit tercampur dengan sensasi kenyal di lidah. Aroma harum pandan menyengat.
+  </string>
+
+
+    <string name="judul_info2">Bakpia Yogyakarta</string>
+    <string name="isi_info2">Bakpia sebenarnya berasal dari negeri Cina,
+        aslinya bernama Tou Luk Pia, yang artinya adalah kue pia (kue) kacang hijau. Selain itu pula bakpia mulai diproduksi di kampung Pathok Yogyakarta, sejak sekitar tahun 1948. Waktu itu masih diperdagangkan secara eceran dikemas dalam besek tanpa label, peminatnya pun masih sangat terbatas.
+        Proses itu berlanjut hingga mengalami perubahan dengan kemasan kertas karton disertai label tempelan.</string>
+
+
+    <string name="judul_info3">Bolu Gulung Surabaya</string>
+    <string name="isi_info3">Bolu Gulung Surabaya merupakan oleh-oleh khas
+        Surabaya yang terbaru dan kekinian. Oleh-oleh ini terasa begitu
+        spesial, karena tersedia dalam banyak varian, mulai dari varian cake rasa vanilla, cake rasa pandan, dan cake rasa coklat. Untuk Filling (isi) tersedia selai meises, durian, cheese, pineapple, strawberry, buttercream vanilla, buttercream chocolate
+</string>
+
+
+    <string name="judul_info4">Lemang Karo</string>
+    <string name="isi_info4">Lemang atau dalam bahasa Karo disebut rires, bisa dinikmati dengan berbagai saus pelengkap. Pada musim durian, sausnya akan dicampur dengan durian. Tapi pada masyarakat Karo biasa dimakan dengan saus yang disebut tengguli, terbuat dari gula merah.
+</string>
+
+
+    <string name="judul_info5">Pinyaram Padang</string>
+    <string name="isi_info5">Sumatera Barat memiliki banyak sekali penganan tradisional yang bercitarasa sangat lezat dan salah satu penganan yang sangat khas bernama Kue Pinyaram dan umumnya kue ini dibuat saat menyambut hari raya serta perayaan khusus. Kue pinyaram dibuat dari campuran gula area,
+        tepung bera putih atau tepung beras hitam dan juga santan.</string>
+
+    //ResepKue
+    <string name="judul_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep1">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep2">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep3">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep4">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep5">Password too short, enter minimum 6 characters!</string>
+
+
+    //AboutUs
+    <string name="about_us">Dengan rasa bangga dan percaya diri kelompok kami mampu memnyelesaikan aplikasi sederhana ini,
+        untuk memenuhi persyaratan tugas akhir pada matakuliah Pemrograman Aplikasi Perangkat Bergerak.
+        Semoga kedepannya aplikasi ini dapat terus dikembangkan dan dapat memberikan manfaat yang nyata untuk masyarakat.
+        \nSelanjutnya,\nizinkan kelompok kami memperkenalkan diri</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    //Maps
+
+        <string name="app">Carot</string>
+        <string name="maps">Map</string>
+        <string name="normal_map">normal_map</string>
+        <string name="hybrid_map">hybrid_map</string>
+        <string name="satellite_map">satellite_map</string>
+        <string name="terrain_map">terrain_map</string>
+
+</resources>
